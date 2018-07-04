@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e78e6ac3-2117-4362-950b-1371e6cfa3a1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ConnectionDB.php" beforeDir="false" afterPath="$PROJECT_DIR$/ConnectionDB.php" afterDir="false" />
-    </list>
+    <list default="true" id="e78e6ac3-2117-4362-950b-1371e6cfa3a1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,16 +112,15 @@
       <option name="presentableId" value="Default" />
       <updated>1530140856246</updated>
       <workItem from="1530140857909" duration="957000" />
-      <workItem from="1530678136443" duration="4118000" />
+      <workItem from="1530678136443" duration="4398000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5075000" />
+    <option name="totallyTimeSpent" value="5355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1366" height="742" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
       <window_info anchor="bottom" id="TODO" order="6" />
