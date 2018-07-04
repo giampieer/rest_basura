@@ -1,7 +1,7 @@
 <?php
 class ConnectionDB {
   const SERVER = "localhost";
-  const USER = "giampieer24";
+  const USER = "root";
   const PASS = "Gi@mpieer24-pe";
   const DATABASE = "db_trash";
   private  $cn = null;
